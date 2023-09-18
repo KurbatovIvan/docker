@@ -1,4 +1,6 @@
+Ставил вот по этой инстукции:
 https://www.zabbix.com/documentation/current/en/manual/installation/containers
+
 Example 1
 
 The example demonstrates how to run Zabbix server with MySQL database support, Zabbix web interface based on the Nginx web server and Zabbix Java gateway.
